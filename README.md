@@ -4,6 +4,30 @@ AI-powered execution control system for structured, safe and auditable task proc
 
 ---
 
+## 🎯 Who This Is For
+
+This system is designed for:
+
+- AI startups building autonomous agents
+- companies implementing AI workflows with control requirements
+- developers working on AI governance and safety layers
+- product teams needing structured AI execution
+
+---
+
+## ⚡ Problem It Solves
+
+Modern AI systems:
+- are unpredictable
+- lack control
+- are not auditable
+
+This engine introduces:
+- execution control
+- policy enforcement
+- traceability
+- incident handling
+
 ## 🚀 What This Is
 
 Onto Compliance Engine is a prototype of a next-generation AI execution layer.
@@ -93,3 +117,20 @@ Roman Shaban
 AI Systems Architect (in progress)
 
 ---
+
+## 🧩 System Architecture
+
+Core modules:
+
+- `execution_graph.py` — task flow tracking
+- `policy.py` — control rules
+- `approval.py` — human-in-the-loop layer
+- `incident_engine.py` — failure detection
+- `state_machine.py` — execution lifecycle
+
+---
+
+## 🧪 How to Run
+
+```bash
+python runner.py
