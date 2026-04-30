@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19927624.svg)](https://doi.org/10.5281/zenodo.19927624)
 # Onto Compliance Engine (CIOS)
 
 AI-powered execution control system for structured, safe and auditable task processing.
